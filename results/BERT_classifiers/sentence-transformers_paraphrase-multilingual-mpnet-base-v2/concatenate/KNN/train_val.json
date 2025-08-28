@@ -1,0 +1,262 @@
+[
+    {
+        "number": 0,
+        "params": {
+            "n_neighbors": 76,
+            "weights": "uniform",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.810418648905804,
+        "precision": 0.7325568153838578,
+        "recall": 0.6023895594777977,
+        "f1": 0.6197304600442601,
+        "method": "concatenate"
+    },
+    {
+        "number": 1,
+        "params": {
+            "n_neighbors": 13,
+            "weights": "uniform",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8230256898192198,
+        "precision": 0.7418050293508465,
+        "recall": 0.6674126311916834,
+        "f1": 0.6903226419667425,
+        "method": "concatenate"
+    },
+    {
+        "number": 2,
+        "params": {
+            "n_neighbors": 167,
+            "weights": "uniform",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8058991436726927,
+        "precision": 0.7292340264505406,
+        "recall": 0.5810609702349314,
+        "f1": 0.5907984815547841,
+        "method": "concatenate"
+    },
+    {
+        "number": 3,
+        "params": {
+            "n_neighbors": 87,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8387250237868696,
+        "precision": 0.7637999914869293,
+        "recall": 0.720449286099754,
+        "f1": 0.7378288645865987,
+        "method": "concatenate"
+    },
+    {
+        "number": 4,
+        "params": {
+            "n_neighbors": 92,
+            "weights": "uniform",
+            "metric": "manhattan"
+        },
+        "accuracy": 0.8080399619410086,
+        "precision": 0.735116746134422,
+        "recall": 0.5869319685095921,
+        "f1": 0.599093447702901,
+        "method": "concatenate"
+    },
+    {
+        "number": 5,
+        "params": {
+            "n_neighbors": 122,
+            "weights": "uniform",
+            "metric": "manhattan"
+        },
+        "accuracy": 0.8035204567078973,
+        "precision": 0.719165385333889,
+        "recall": 0.5775005310169814,
+        "f1": 0.5857837570640338,
+        "method": "concatenate"
+    },
+    {
+        "number": 6,
+        "params": {
+            "n_neighbors": 62,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8394386298763082,
+        "precision": 0.7645987334761986,
+        "recall": 0.723363527619489,
+        "f1": 0.7401091601973291,
+        "method": "concatenate"
+    },
+    {
+        "number": 7,
+        "params": {
+            "n_neighbors": 8,
+            "weights": "uniform",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8194576593720266,
+        "precision": 0.738043758043758,
+        "recall": 0.6503799439205415,
+        "f1": 0.6738432005691427,
+        "method": "concatenate"
+    },
+    {
+        "number": 8,
+        "params": {
+            "n_neighbors": 110,
+            "weights": "distance",
+            "metric": "manhattan"
+        },
+        "accuracy": 0.8382492863939106,
+        "precision": 0.7644253647938666,
+        "recall": 0.7144039922991527,
+        "f1": 0.733717349468966,
+        "method": "concatenate"
+    },
+    {
+        "number": 9,
+        "params": {
+            "n_neighbors": 120,
+            "weights": "uniform",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8087535680304472,
+        "precision": 0.7372925252389639,
+        "recall": 0.5886154701930937,
+        "f1": 0.6014410314751611,
+        "method": "concatenate"
+    },
+    {
+        "number": 10,
+        "params": {
+            "n_neighbors": 50,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8392007611798288,
+        "precision": 0.7637282493425086,
+        "recall": 0.724853593452044,
+        "f1": 0.7408326247483474,
+        "method": "concatenate"
+    },
+    {
+        "number": 11,
+        "params": {
+            "n_neighbors": 48,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8389628924833492,
+        "precision": 0.7633587695166755,
+        "recall": 0.7242924262242101,
+        "f1": 0.7403265502377436,
+        "method": "concatenate"
+    },
+    {
+        "number": 12,
+        "params": {
+            "n_neighbors": 44,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8394386298763082,
+        "precision": 0.7638114052728291,
+        "recall": 0.7266455005161112,
+        "f1": 0.7420677680876829,
+        "method": "concatenate"
+    },
+    {
+        "number": 13,
+        "params": {
+            "n_neighbors": 35,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8389628924833492,
+        "precision": 0.7624548233341275,
+        "recall": 0.7283948923449879,
+        "f1": 0.742749698899316,
+        "method": "concatenate"
+    },
+    {
+        "number": 14,
+        "params": {
+            "n_neighbors": 30,
+            "weights": "distance",
+            "metric": "cosine"
+        },
+        "accuracy": 0.8396764985727878,
+        "precision": 0.7635531082226892,
+        "recall": 0.7300783940284896,
+        "f1": 0.7442460469327895,
+        "method": "concatenate"
+    },
+    {
+        "number": 15,
+        "params": {
+            "n_neighbors": 25,
+            "weights": "distance",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8384871550903901,
+        "precision": 0.76123770370553,
+        "recall": 0.7297340375617869,
+        "f1": 0.7431810197037398,
+        "method": "concatenate"
+    },
+    {
+        "number": 16,
+        "params": {
+            "n_neighbors": 23,
+            "weights": "distance",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8389628924833492,
+        "precision": 0.7621266164833045,
+        "recall": 0.730035878793299,
+        "f1": 0.7437011730314345,
+        "method": "concatenate"
+    },
+    {
+        "number": 17,
+        "params": {
+            "n_neighbors": 197,
+            "weights": "distance",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8368220742150333,
+        "precision": 0.7621470288840552,
+        "recall": 0.7110369889321494,
+        "f1": 0.7305736463772101,
+        "method": "concatenate"
+    },
+    {
+        "number": 18,
+        "params": {
+            "n_neighbors": 145,
+            "weights": "distance",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8370599429115129,
+        "precision": 0.7622888211800414,
+        "recall": 0.7124186493841389,
+        "f1": 0.7316276732133993,
+        "method": "concatenate"
+    },
+    {
+        "number": 19,
+        "params": {
+            "n_neighbors": 4,
+            "weights": "distance",
+            "metric": "euclidean"
+        },
+        "accuracy": 0.8215984776403426,
+        "precision": 0.7328341012644305,
+        "recall": 0.7309158255933585,
+        "f1": 0.731864772082505,
+        "method": "concatenate"
+    }
+]

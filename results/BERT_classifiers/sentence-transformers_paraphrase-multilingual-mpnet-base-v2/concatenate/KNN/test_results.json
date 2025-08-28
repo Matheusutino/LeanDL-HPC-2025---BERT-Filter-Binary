@@ -1,0 +1,37 @@
+{
+    "best_params": {
+        "n_neighbors": 30,
+        "weights": "distance",
+        "metric": "cosine"
+    },
+    "classification_report": {
+        "0": {
+            "precision": 0.8938361131254532,
+            "recall": 0.9299834012373623,
+            "f1-score": 0.9115515456293448,
+            "support": 6627.0
+        },
+        "1": {
+            "precision": 0.6937293729372938,
+            "recall": 0.5894559730790802,
+            "f1-score": 0.6373559733171619,
+            "support": 1783.0
+        },
+        "accuracy": 0.8577883472057075,
+        "macro avg": {
+            "precision": 0.7937827430313735,
+            "recall": 0.7597196871582212,
+            "f1-score": 0.7744537594732533,
+            "support": 8410.0
+        },
+        "weighted avg": {
+            "precision": 0.8514115806931717,
+            "recall": 0.8577883472057075,
+            "f1-score": 0.8534194760178558,
+            "support": 8410.0
+        }
+    },
+    "emissions_train": 0.00011129837581855664,
+    "emissions_test": 5.3516687306355185e-06,
+    "method": "concatenate"
+}

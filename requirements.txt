@@ -1,0 +1,16 @@
+codecarbon
+pandas
+fastparquet
+transformers
+huggingface_hub
+python-dotenv
+torch
+scikit-learn
+sentence-transformers
+optuna
+numpy
+matplotlib
+RapidFuzz
+seaborn
+adjust_text
+scipy
