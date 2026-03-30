@@ -57,7 +57,17 @@ Available: https://colab.research.google.com/drive/1bJUCxDJ4Cmd2VLQp1-Wx2r_vSkYQ
 
 ## 🔬 Citation
 
-Paper submitted. Citation information will be updated after peer review.
+```bibtex
+@inproceedings{utino2025efficient,
+  title={Efficient Filtering with BERT Embeddings for Researcher--Topic Affinity Prediction in HPC Pipelines},
+  author={Utino, Matheus Yasuo Ribeiro and G{\^o}lo, Marcos Paulo Silva},
+  booktitle={2025 IEEE/SBC 37th International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)},
+  pages={155--162},
+  year={2025},
+  organization={IEEE}
+}
+
+```
 
 ---
 
